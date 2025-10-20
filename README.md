@@ -32,5 +32,5 @@ Mall Customer Segmentation Data (from Kaggle)
 ###  Output
 The dataset is now clean, consistent, and ready for further analysis or visualization.
 
-### ✍️ Author
-**Your Name**  
+****SADDALA HARSHITHA
+       _Data Analyst Intern_ ****
